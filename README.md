@@ -1,3 +1,3 @@
-## guessinggame.sh for Coursera/JHU's The Unix Workbench course\n
+## guessinggame.sh for Coursera - The Unix Workbench course
 README.md created: lör 10 nov 2018 22:32:20 CET
-\nNumber of lines in guessinggame.sh: 25
+Number of lines in guessinggame.sh: 25

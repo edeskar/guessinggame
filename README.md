@@ -1,10 +1,3 @@
-# Guessing game - Assignment in the Unix workbench course
-
-Add text here
-
-The makefile should produce the README.md which should contain the following information:
-
-The title of the project.
-The date and time at which make was run.
-The number of lines of code contained in guessinggame.sh.
-The README.md should be produced entirely from the makefile and should not be edited by hand.
+## guessinggame.sh for Coursera/JHU's The Unix Workbench course\n
+README.md created: lör 10 nov 2018 22:32:20 CET
+\nNumber of lines in guessinggame.sh: 25
